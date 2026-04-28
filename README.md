@@ -51,8 +51,7 @@ This repository contains the first three internship tasks completed as part of a
 - `Task-1/`
 - `Task-2/`
 - `Task-3/`
-- `Task-4/`
-- `Task-5/`
+`
 
 ## Author
 
