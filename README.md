@@ -55,4 +55,6 @@ This repository contains the first three internship tasks completed as part of a
 
 ## Author
 
-Hassaan Bio
+Hassaan Sikander
+Contact no. : 0313-4331093
+Gmail: kman05857@gmail.com
